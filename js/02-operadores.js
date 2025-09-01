@@ -1,2 +1,0 @@
-// sobre operadores atitiméticos
-// 
